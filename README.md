@@ -13,4 +13,4 @@ A Software Engineer with industry experience building web services. Specializing
 ### You can also find me on 📫 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/salem-attia/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SalemAttia9)   
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=SalemAttia&hide=issues&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/SalemAttia?tab=repositories) 
+[![github stats](https://github-readme-stats.vercel.app/api?username=SalemAttia&hide=issues&show_icons=true&include_all_prs=true&include_all_commits=true&count_private=true)](https://github.com/SalemAttia?tab=repositories) 
